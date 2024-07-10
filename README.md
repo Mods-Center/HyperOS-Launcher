@@ -1,22 +1,23 @@
 # HyperOS Launcher
-![Frame 140](https://github.com/Mods-Center/HyperOS-Launcher/assets/83476983/e660570a-e2a4-4603-b8df-e5b09f581801)
+![Frame 173](https://github.com/Mods-Center/HyperOS-Launcher/assets/83476983/26248f2e-2acf-435a-82fb-3b48778ca738)
 
-HyperOS Launcher App modified by [Kashi](https://t.me/kakashi1v1) with added features and UI changes.
+HyperOS Launcher App modified by [Kevin Miranda](https://t.me/kevinmirandapasiche) with added features and UI changes.
 
 ### Download
 Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launcher/releases)
 
 ### Changelog:
-- Fixed opening animations for Android 12 and 13
-- Added several new mods.
-- Added Google related functions
+- Fix and improvements in codes
+- Added Pile up recents view as seperate choice 
+- Added several new modifications.
+- Fixed all bugs noticed in the previous update.
 
 ### Instructions:
 - Download and flash the zip in magisk.
 - Reboot the device.
 - Now Enjoy.
 
-### Android 13 or above users:
+### READ:
 - Disable apk signature verification is necessary, and it is recommended to use Core Patch LSPosed module.
 
 ### Notes:
@@ -25,4 +26,6 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launche
 - Not for paid ROMs.
 
 ### Important:
+- Launcher mod is the one of the mod which consumes lot of time from me so please don't make another mod based on this work and let it remain however it is.
+(If you all want future updates i.e.)
 - Due to people taking mods from our apk and not even giving credits, extra folder grids and some more major mods have been removed and there's no plans to add them or any new mod again in future.
