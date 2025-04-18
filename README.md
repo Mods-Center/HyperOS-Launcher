@@ -10,7 +10,7 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launche
 - Added blurred background for dock
 - Added Circle to search
 - Improved blur for searchbar and app drawer 
-- Added custom grids option for hone screen layout (eg. 5x6 or custom)
+- Added custom grids option for home screen layout (eg. 5x6 or custom)
 - Removed widget resize restrictions 
 - Bring back rounded corners for third party widgets 
 - Third party widgets can be added to -1 screen
