@@ -27,13 +27,8 @@
 
 ---
 
-### **Q: Is there a 5x6 grid for the home screen layout?**  
-**A:** Yes, there's a "Custom Grids" option where you can choose your own X and Y grid values.
-
----
-
-### **Q: Can I use this module on a tablet (Pad)?**  
-**A:** The mod was built for mobile. It hasn't been tested on tablets.
+### **Q: Can I use this module in a tablet (Pad)?**  
+**A:** The mod was built for mobile. It hasn't been tested in tablets.
 
 ---
 
