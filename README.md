@@ -18,7 +18,7 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launche
 - Many more....
 
 ### FAQ
-**Read the full [FAQ here](https://github.com/Mods-Center/HyperOS-Launcher/blob/main/FAQ.md) for detailed info.**
+**Read the full [FAQ here](https://github.com/Mods-Center/HyperOS-Launcher/blob/main/FAQ.md) for queries and info.**
 
 ### Screenshots
 ![Screenshot_2025-04-18-00-42-49-746_com miui home-edit](https://github.com/user-attachments/assets/f6332d85-1a91-4173-9ed0-ddadb2656bbc)
