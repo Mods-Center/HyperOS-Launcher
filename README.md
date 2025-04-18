@@ -1,5 +1,6 @@
 # HyperOS Launcher V4
-![Frame 173](https://github.com/Mods-Center/HyperOS-Launcher/assets/83476983/26248f2e-2acf-435a-82fb-3b48778ca738)
+![Frame 195](https://github.com/user-attachments/assets/ad7b8313-6633-4f4c-93fa-10fb3614f67a)
+
 
 HyperOS Launcher App modified by [🅺🅰🆂🅷🅸](https://t.me/kakashi1v1) with added features and UI changes.
 
