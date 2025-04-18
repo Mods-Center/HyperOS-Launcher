@@ -17,6 +17,9 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launche
 - Added monet options in monochrome icons choice
 - Many more....
 
+### FAQ
+https://github.com/Mods-Center/HyperOS-Launcher/blob/main/FAQ.md
+
 ### Screenshots
 ![Screenshot_2025-04-18-00-42-49-746_com miui home-edit](https://github.com/user-attachments/assets/f6332d85-1a91-4173-9ed0-ddadb2656bbc)
 ![Screenshot_2025-04-18-00-40-46-560_com miui home-edit](https://github.com/user-attachments/assets/a68ee8eb-b0fe-4756-b235-cb6e97f7d8b2)
