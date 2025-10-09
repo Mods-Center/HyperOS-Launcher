@@ -1,14 +1,14 @@
-# Launcher Mod v4 - FAQ
+# Launcher Mod v5 - FAQ
 
 ---
 
-### **Q: Does Launcher mod v4 work for Android 14?**  
-**A:** Yes, it works in Android 14, but some mods will be disabled as they are exclusive to Android 15 only.
+### **Q: Does Launcher mod v5 work for Android 14?**  
+**A:** Yes, it works in Android 14 and most of modifications are working well for Android 14.
 
 ---
 
 ### **Q: I don't have the dock option in the launcher.**  
-**A:** Dock background customization only works for Android 15. Also, advanced textures must be enabled in your ROM (Display Settings or Launcher Settings → Force advanced textures).
+**A:** To use Dock feature, Advanced textures must be enabled in your ROM (Display Settings or Launcher Settings → Force advanced textures).
 
 ---
 
@@ -23,7 +23,7 @@
 ---
 
 ### **Q: Are there 1x2 and 2x1 grids for folders?**  
-**A:** Not yet. No current plans for this in Launcher v4, but it might be added in v5 (maybe in a year? xD).
+**A:** Yes.
 
 ---
 
