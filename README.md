@@ -9,7 +9,7 @@ HyperOS Launcher App modified by [🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)
 Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launcher/releases)
 
 ### FAQ
-**Read the full [FAQ here](https://github.com/Mods-Center/HyperOS-Launcher/blob/main/FAQ.md) for queries and info.**
+**Read the full [FAQ here](https://github.com/Mods-Center/HyperOS-Launcher/blob/main/FAQV6.md) for queries and info.**
 
 ### Screenshots
 <img width="1184" height="2547" alt="1763191911188" src="https://github.com/user-attachments/assets/40c98746-c033-4a9c-b95e-b876d1d50627" />
