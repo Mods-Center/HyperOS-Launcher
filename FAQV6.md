@@ -27,5 +27,5 @@
 
 ---
 
-### **Q: Can I use this module in a tablet (Pad)?**  
-**A:** The mod was built for mobile. It hasn't been tested in tablets.
+### **Q: Does Launcher mod v6 work for Android 14 ?**  
+**A:** No, Xiaomi completely removed support for Android 14 in newer launcher versions and it can't be used in A14 anymore.
