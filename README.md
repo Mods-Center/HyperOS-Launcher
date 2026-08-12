@@ -1,5 +1,6 @@
-# HyperOS Launcher V6.2
-<img width="2171" height="1220" alt="Picsart_25-12-18_07-46-48-953" src="https://github.com/user-attachments/assets/e645c63c-169f-437d-be79-5adb045c6c5c" />
+# HyperOS Launcher V7
+<img width="2171" height="1220" alt="Picsart_26-08-12_10-53-08-203" src="https://github.com/user-attachments/assets/2f62dd6d-8ae8-4eb3-9828-0bfa72ec033c" />
+
 
 
 
@@ -13,7 +14,10 @@ Download from the [releases page](https://github.com/Mods-Center/HyperOS-Launche
 **Read the full [FAQ here](https://github.com/Mods-Center/HyperOS-Launcher/blob/main/FAQV6.md) for queries and info.**
 
 ### Screenshots
-<img width="1184" height="2547" alt="Screenshot_2025-12-17-22-26-26-792_com miui home-edit" src="https://github.com/user-attachments/assets/ee12ed40-31a8-4bc0-bc0e-2ce92a90d03e" />
+<img width="1308" height="2813" alt="Screenshot_2026-08-12-10-51-40-258_com miui home-edit" src="https://github.com/user-attachments/assets/1c497837-5b65-451e-baf4-00c7e8b8f070" />
+<img width="1308" height="2813" alt="Screenshot_2026-08-12-10-34-53-147_com miui home-edit" src="https://github.com/user-attachments/assets/d682e3e4-bc5a-43dc-ae9a-6fd6c1b6c867" />
+<img width="1308" height="2813" alt="Screenshot_2026-08-12-10-35-59-342_com miui home-edit" src="https://github.com/user-attachments/assets/fd5afa11-0162-48f2-b420-3a7c26764340" />
+<img width="1308" height="2813" alt="Screenshot_2026-08-12-10-37-41-562_com miui home-edit" src="https://github.com/user-attachments/assets/1faf643c-c8f3-4fa9-bb04-afc737b9ebdb" />
 <img width="1308" height="2813" alt="Screenshot_2025-12-17-19-57-51-972_com miui home-edit" src="https://github.com/user-attachments/assets/20988286-da9b-4707-bb42-370f61bebff9" />
 <img width="1308" height="2813" alt="Screenshot_2025-12-17-19-56-32-931_com miui home-edit" src="https://github.com/user-attachments/assets/3ccbe877-4333-46f5-9e2a-19ac3c6f57a1" />
 <img width="1308" height="2813" alt="Screenshot_2025-12-17-19-56-41-219_com miui home-edit" src="https://github.com/user-attachments/assets/84e301f9-798c-4dcf-b428-3f8f27b1a0d3" />
