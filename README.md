@@ -16,7 +16,7 @@
 > [!NOTE]
 > **V7.5 is the final release** of this mod. For HyperOS 4, see the [HyperOS 4 Rust Launcher Mod](https://github.com/Mods-Center/HyperOS-Rust-Launcher-Mod).
 
-## ✨ Features
+## Features
 - Widget stacking
 - Super icon support for any app
 - iOS-inspired app-open animation
@@ -27,22 +27,22 @@
 - OriginOS-style recents transition, stacked recents and the "go back to previous app" gesture
 - Better blur effects (glassy blur on HyperOS 3)
 
-## 📋 Requirements
+## Requirements
 - HyperOS 2 or HyperOS 3
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/HyperOS-Launcher/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 
 ### FAQ
 Read the [FAQ](FAQV6.md) before reporting an issue. It covers blur, folder backgrounds, Circle to Search and common crashes.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/85d42455-1dc2-4d1e-a8c3-aa1ed3e64226" width="23%" alt="HyperOS Launcher Mod"/>
   <img src="https://github.com/user-attachments/assets/9cd29603-b5dc-4e0f-b673-ed5dfb7a7bb5" width="23%" alt="HyperOS Launcher Mod"/>
@@ -72,8 +72,8 @@ Read the [FAQ](FAQV6.md) before reporting an issue. It covers blur, folder backg
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/HyperOS-Launcher/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Launcher/issues)
 
 </div>
