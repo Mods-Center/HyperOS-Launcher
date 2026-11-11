@@ -74,6 +74,6 @@ Read the [FAQ](FAQV6.md) before reporting an issue. It covers blur, folder backg
 
 Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Launcher/issues)
+[Website](https://modscenter.org) · [Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/HyperOS-Launcher/issues)
 
 </div>
