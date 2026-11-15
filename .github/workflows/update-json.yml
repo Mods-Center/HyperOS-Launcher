@@ -1,0 +1,23 @@
+# Keeps update.json / changelog.md in sync with the latest release, so
+# Magisk / KernelSU / KSU-Next / APatch show an Update button.
+# Hotfix: bump versionCode in module.prop, publish (or edit) the release.
+# Re-uploaded a zip without editing the release? Run this workflow by hand.
+name: update.json
+
+on:
+  release:
+    types: [published, edited]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Release tag (empty = latest)
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    uses: Mods-Center/.github/.github/workflows/module-update-json.yml@main
+    with:
+      tag: ${{ inputs.tag }}
